@@ -24,5 +24,8 @@ Don't just copy paste the code during learning . Instead read about every word t
      https://matplotlib.org/users/pyplot_tutorial.html
      
   6.   What is Adam? Why to use Adam?
-       a good explaination on : https://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/
-       Research paper : "Adam: A Method for Stochastic Optimization"   https://arxiv.org/abs/1412.6980
+       a good explaination on :
+            https://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/
+       
+       Research paper : "Adam: A Method for Stochastic Optimization"  
+                         https://arxiv.org/abs/1412.6980
