@@ -41,6 +41,6 @@ Don't just copy paste the code during learning . Instead read about every word t
                        
    7. use of xticks : https://colab.research.google.com/drive/14uWUakQGskyG3zWZ1AGwZT9Ulyuaw_Nr#scrollTo=i2_yTtIFiZyT&line=4&uniqifier=1
    
-   # CONCLUSION AND PROBLEM LEFT : 
+   #  CONCLUSION AND PROBLEM LEFT : 
    1. After training we are left with the problem of overfitting in the data . Which surely I will be removing as i learn further.
    
