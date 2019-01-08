@@ -1,6 +1,7 @@
 # Train_Fashion_MNIST
 This is the way i started learning tensorflow, ENJOY ML!
-# Problem Statement : We have Fashion MNIST dataset which contains 70,000 grayscale images in 10 categories.We need to train it on 60k images to predict the next 10k images result. 
+# Problem Statement : 
+We have Fashion MNIST dataset which contains 70,000 grayscale images in 10 categories.We need to train it on 60k images to predict the next 10k images result. 
 
 
 Starting from the https://www.tensorflow.org/tutorials/  
