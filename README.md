@@ -13,8 +13,9 @@ Don't just copy paste the code during learning . Instead read about every word t
      https://www.tensorflow.org/tutorials/
      
   3. how google colab is using GPUs & the TPU :
-       https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d 
-       https://medium.com/syncedreview/googles-tpu-chip-goes-public-in-challenge-to-nvidia-s-gpu-78ced56776b5
+      https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d 
+       
+      https://medium.com/syncedreview/googles-tpu-chip-goes-public-in-challenge-to-nvidia-s-gpu-78ced56776b5
 
   4. what is keras ? 
      https://keras.io/
@@ -22,5 +23,6 @@ Don't just copy paste the code during learning . Instead read about every word t
   5. What is matplotlib? (ploting graphs in tensorflow uses this library,read more...)
      https://matplotlib.org/users/pyplot_tutorial.html
      
-  6.   
-       
+  6.   What is Adam? Why to use Adam?
+       a good explaination on : https://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/
+       Research paper : "Adam: A Method for Stochastic Optimization"   https://arxiv.org/abs/1412.6980
