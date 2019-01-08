@@ -1,5 +1,7 @@
 # Train_Fashion_MNIST
 This is the way i started learning tensorflow, ENJOY ML!
+# Problem Statement : We have Fashion MNIST dataset which contains 70,000 grayscale images in 10 categories.We need to train it on 60k images to predict the next 10k images result. 
+
 
 Starting from the https://www.tensorflow.org/tutorials/  
 Don't just copy paste the code during learning . Instead read about every word that you encounter, that you don't know.This way we explore the field of ML. There are several blogs written so well to enlighten you on those topic.
@@ -38,4 +40,7 @@ Don't just copy paste the code during learning . Instead read about every word t
                          https://arxiv.org/abs/1412.6980
                        
    7. use of xticks : https://colab.research.google.com/drive/14uWUakQGskyG3zWZ1AGwZT9Ulyuaw_Nr#scrollTo=i2_yTtIFiZyT&line=4&uniqifier=1
+   
+   # CONCLUSION AND PROBLEM LEFT : 
+   1. After training we are left with the problem of overfitting in the data . Which surely I will be removing as i learn further.
    
