@@ -20,8 +20,13 @@ Don't just copy paste the code during learning . Instead read about every word t
   4. what is keras ? 
      https://keras.io/
   
-  5. What is matplotlib? (ploting graphs in tensorflow uses this library,read more...)
+  5. What is matplotlib? (ploting graphs useing this library,read more...)
      https://matplotlib.org/users/pyplot_tutorial.html
+     
+     Matplotlib is an amazing visualization library in Python for 2D plots of arrays. Matplotlib is a multi-platform data       
+     visualization library built on NumPy arrays and designed to work with the broader SciPy stack. 
+     It was introduced by John Hunter in the year 2002.
+     more at   https://www.geeksforgeeks.org/python-matplotlib-pyplot-ticks/
      
   6.   What is Adam? Why to use Adam?
        a good explaination on :
@@ -29,3 +34,6 @@ Don't just copy paste the code during learning . Instead read about every word t
        
        Research paper : "Adam: A Method for Stochastic Optimization"  
                          https://arxiv.org/abs/1412.6980
+                       
+   7. use of xticks : https://colab.research.google.com/drive/14uWUakQGskyG3zWZ1AGwZT9Ulyuaw_Nr#scrollTo=i2_yTtIFiZyT&line=4&uniqifier=1
+   
