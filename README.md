@@ -1,4 +1,4 @@
-# Train_Fashion_MNIST_dataset
+# Train_Fashion_MNIST
 This is the way i started learning tensorflow, ENJOY ML!
 
 Starting from the https://www.tensorflow.org/tutorials/  
